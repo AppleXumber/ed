@@ -1,0 +1,34 @@
+## Build results
+bin/
+obj/
+TestResults/
+
+## User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## VS folders
+.vs/
+.vscode/
+
+## Auto-generated files
+*.log
+*.tlog
+*.cache
+*.pdb
+*.mdb
+*.dbmdl
+
+## NuGet packages
+packages/
+*.nupkg
+*.snupkg
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## Others
+*.resharper
+*.DotSettings.user
