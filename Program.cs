@@ -11,7 +11,7 @@ namespace ed
         static void Main(string[] args)
         {
             Lista lista = new Lista(10);
-            List<Char> list = new List<Char>();
+            List list = new List<class>();
             list.Add('W');
             lista.Inserir('W');
             list.Add('a');
